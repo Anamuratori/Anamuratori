@@ -1,6 +1,6 @@
 #### Hi there 👋, i'm Ana Muratori.
 A graduated Architect and Fullstack Developer under construction.  
-I'm currently on a Web Fullstack Development learning trail at AdaTech.
+I have just completed a Web Fullstack Development learning trail at AdaTech.
 <br>
 <br>
 #### :rocket: skills:
